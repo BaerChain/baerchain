@@ -1,0 +1,6 @@
+[submodule "libraries/chainbase"]
+	path = libraries/chainbase
+	url = https://github.com/BaerChain/chainbase.git
+[submodule "libraries/appbase"]
+	path = libraries/appbase
+	url = https://github.com/BaerChain/appbase.git
